@@ -1,0 +1,16 @@
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\bin\Debug\MessRealTimeFeedBack.exe.config
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\bin\Debug\MessRealTimeFeedBack.exe.manifest
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\bin\Debug\MessRealTimeFeedBack.application
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\bin\Debug\MessRealTimeFeedBack.exe
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\bin\Debug\MessRealTimeFeedBack.pdb
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.csproj.AssemblyReference.cache
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.FeedbackReportForm.resources
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.Form1.resources
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.Properties.Resources.resources
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.ResultFeedBackEmployee.resources
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.csproj.GenerateResource.cache
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.csproj.CoreCompileInputs.cache
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.exe.manifest
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.application
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.exe
+D:\GIT\Mess_feedBack-System\MessRealTimeFeedBack\obj\Debug\MessRealTimeFeedBack.pdb
